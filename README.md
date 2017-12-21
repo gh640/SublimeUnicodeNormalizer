@@ -1,6 +1,6 @@
 # SublimeUnicodeSwitcher
 
-A Sublime Text 3 package which provides a function to switch unicode normalization formats. Edit
+A Sublime Text 3 package which provides a function to switch unicode normalization formats.
 
 ![SublimeUnicodeSwitcher capture](https://raw.githubusercontent.com/gh640/SublimeUnicodeSwitcher/master/assets/images/capture.gif)
 
