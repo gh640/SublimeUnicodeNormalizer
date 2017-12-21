@@ -1,0 +1,20 @@
+[
+    {
+        "caption": "UnicodeSwitcher: Select",
+        "command": "unicode_switcher_select"
+    },
+    {
+        "caption": "UnicodeSwitcher: Switch to NFC",
+        "command": "unicode_switcher_switch",
+        "args": {
+            "form": "NFC"
+        }
+    },
+    {
+        "caption": "UnicodeSwitcher: Switch to NFD",
+        "command": "unicode_switcher_switch",
+        "args": {
+            "form": "NFD"
+        }
+    }
+]
