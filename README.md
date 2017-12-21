@@ -2,6 +2,8 @@
 
 A Sublime Text 3 package which provides a function to switch unicode normalization formats. Edit
 
+![SublimeUnicodeSwitcher capture](https://raw.githubusercontent.com/gh640/SublimeUnicodeSwitcher/master/assets/images/capture.gif)
+
 
 ## Dependencies
 
@@ -14,6 +16,8 @@ This package doesn't have any dependency. You can use this package only if you h
 
 
 ## Usage
+
+![SublimeUnicodeSwitcher capture](https://raw.githubusercontent.com/gh640/SublimeUnicodeSwitcher/master/assets/images/capture-animation.gif)
 
 ### Commands
 
