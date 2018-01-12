@@ -15,7 +15,7 @@ FORMS = (
 )
 
 
-class UnicodeSwitcherSelectCommand(sublime_plugin.TextCommand):
+class UnicodeNormalizerSelectCommand(sublime_plugin.TextCommand):
     '''Shows a list of unicode encoding forms and applies one of them.
     '''
 
@@ -26,12 +26,12 @@ class UnicodeSwitcherSelectCommand(sublime_plugin.TextCommand):
         if form_index < 0:
             return
 
-        self.view.run_command('unicode_switcher_switch', {
+        self.view.run_command('unicode_normalizer_switch', {
             'form': FORMS[form_index][0],
         })
 
 
-class UnicodeSwitcherSwitchCommand(sublime_plugin.TextCommand):
+class UnicodeNormalizerSwitchCommand(sublime_plugin.TextCommand):
     '''Applies the specified unicode encoding form to the current view.
     '''
 

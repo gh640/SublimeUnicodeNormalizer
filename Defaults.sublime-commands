@@ -1,18 +1,18 @@
 [
     {
-        "caption": "UnicodeSwitcher: Select",
-        "command": "unicode_switcher_select"
+        "caption": "UnicodeNormalizer: Select",
+        "command": "unicode_normalizer_select"
     },
     {
-        "caption": "UnicodeSwitcher: Switch to NFC",
-        "command": "unicode_switcher_switch",
+        "caption": "UnicodeNormalizer: Switch to NFC",
+        "command": "unicode_normalizer_switch",
         "args": {
             "form": "NFC"
         }
     },
     {
-        "caption": "UnicodeSwitcher: Switch to NFD",
-        "command": "unicode_switcher_switch",
+        "caption": "UnicodeNormalizer: Switch to NFD",
+        "command": "unicode_normalizer_switch",
         "args": {
             "form": "NFD"
         }
