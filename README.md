@@ -12,7 +12,9 @@ This package doesn't have any dependency. You can use this package only if you h
 
 ## Installation
 
-...
+It's easy to install this package with [Package Control](https://packagecontrol.io/). If you haven't installed Package Control yet, first install it following the [instruction](https://packagecontrol.io/installation).
+
+Once you installed Pacakge Control, restart your Sublime Text and open the command palette (<kbd>cmd + shift + p</kbd>). Then, find and select `UnicodeNormalizer`.
 
 
 ## Usage
